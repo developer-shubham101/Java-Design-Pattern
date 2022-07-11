@@ -1,4 +1,4 @@
-package AdapterDesignPattern;
+package adapterDesignPattern;
 // The Adapter must provide an alternative action for 
 // the the methods that need to be used because
 // EnemyAttacker was implemented.

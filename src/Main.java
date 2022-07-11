@@ -1,11 +1,5 @@
-import abstractFactoryDesignPattern.TestAbstractFactoryDesignPattern;
-import AdapterDesignPattern.TestAdapterDesignPattern;
-import bridgeDesignPattern.TestBridgeDesignPattern;
-import decoratorDesignPattern.TestDecoratorDesignPattern;
-import observerDesignPattern.TestObserverDesignPattern;
-import StrategyDesignPattern.TestStrategyDesignPattern;
-import chainOfResponsibilityEsignPattern.TestCalcChain;
-import stateDesignPattern.TestStateDesignPattern;
+import compositeDesignPattern.CompositeDesignPattern;
+import prototypeDesignPattern.PrototypeDesignPattern;
 
 public class Main {
 
@@ -21,6 +15,8 @@ public class Main {
 //        TestObserverDesignPattern.test();
 //        TestStateDesignPattern.test();
 //        new ReferenceSamples();
+//        PrototypeDesignPattern.test();
+        CompositeDesignPattern.test();
     }
 
 }

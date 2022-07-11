@@ -1,4 +1,4 @@
-package AdapterDesignPattern;
+package adapterDesignPattern;
 // This is the Adaptee. The Adapter sends method calls
 // to objects that use the EnemyAttacker interface
 // to the right methods defined in EnemyRobot

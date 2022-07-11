@@ -1,4 +1,4 @@
-package AdapterDesignPattern;
+package adapterDesignPattern;
 
 public class TestAdapterDesignPattern {
 
